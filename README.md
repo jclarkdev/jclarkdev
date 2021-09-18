@@ -1,9 +1,9 @@
 👋 Hi, I’m Jordan aka @jclarkdev 
 
-👀 I’m interested in coding, hacking, music production, and chess
+👀 I’m interested in coding, science, music production, and chess
 
-🌱 I’m currently learning how to build my first SaaS app
+🌱 I'm a Software Developer at AO Elite
 
-💞️ I’m looking to collaborate on projects that push me out of my comfort zone
+💞️ I’m focused on Shopify and progressiv eCommerce
 
-📫 You can email me at jordan@digitalflow.us or txt me at +1 (513) 816-0079
+📫 You can email me at jordanclarkdev@gmail.com or txt me at +1 (513) 259-3660
