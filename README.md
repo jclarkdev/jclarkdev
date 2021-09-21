@@ -2,7 +2,7 @@
 
 👀 I’m interested in coding, science, music production, and chess
 
-🌱 I'm a Software Developer at AO Elite
+🌱 I'm a Shopify Developer at AO Elite
 
 💞️ I’m focused on Shopify and progressiv eCommerce
 
